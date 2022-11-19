@@ -4,4 +4,6 @@ today we begin a third lesson of git
 
  запушить данные
 
+ теперь делаем пулл
+ 
  
